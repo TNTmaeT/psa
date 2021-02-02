@@ -1,1 +1,1 @@
-# TeamTNT - public script archive
+# psa
